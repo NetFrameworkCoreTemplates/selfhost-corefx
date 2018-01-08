@@ -4,6 +4,8 @@
     <TargetFramework>net47</TargetFramework>
     <DebugType>portable</DebugType>
     <OutputType>Library</OutputType>
+    <RuntimeIdentifier>win7-x86</RuntimeIdentifier>
+    <BaseNuGetRuntimeIdentifier>win7-x86</BaseNuGetRuntimeIdentifier>
   </PropertyGroup>
 
   <ItemGroup>
