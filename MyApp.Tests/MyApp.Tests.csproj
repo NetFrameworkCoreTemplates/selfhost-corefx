@@ -16,7 +16,7 @@
     <PackageReference Include="NUnit3TestAdapter" Version="3.10.*" />
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.8.*" />
     <PackageReference Include="ServiceStack.Core" Version="5.*" />
-    <PackageReference Include="ServiceStack.Kestrel" Version="5.*" />
+    <PackageReference Include="ServiceStack.Kestrel.Core" Version="5.*" />
   </ItemGroup>
 
 </Project>
