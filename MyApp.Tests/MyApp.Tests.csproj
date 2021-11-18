@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net47</TargetFramework>
+    <TargetFramework>net48</TargetFramework>
     <DebugType>portable</DebugType>
     <OutputType>Library</OutputType>
     <RuntimeIdentifier>win7-x86</RuntimeIdentifier>
